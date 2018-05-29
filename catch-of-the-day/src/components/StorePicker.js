@@ -2,7 +2,12 @@ import React from 'react';
 
 class StorePicker extends React.Component {
   render() {
-    return <p>I'm a boring p tag but coming from React.</p>
+    return (
+      <React.Fragment>
+        <h1>Hello!</h1>
+        <p>I'm some content on multiple lines.</p>
+      </React.Fragment>
+    )
   }
 }
 
