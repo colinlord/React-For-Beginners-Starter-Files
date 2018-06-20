@@ -6,7 +6,7 @@ class StorePicker extends React.Component {
       <React.Fragment>
         { /* I'm a comment */}
         <h1>Hello!</h1>
-        <p>I'm some content on multiple lines.</p>
+        <p>I'm the store picker.</p>
       </React.Fragment>
     )
   }
